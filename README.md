@@ -2,8 +2,11 @@
 Demo application using Spring Boot connecting to MongoDB running in Docker
 
 https://start.spring.io/
+
 https://spring.io/projects/spring-boot
+
 https://www.mongodb.com/
+
 https://www.docker.com/
 
 Installing MongoDB https://phoenixnap.com/kb/docker-mongodb
